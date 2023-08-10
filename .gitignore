@@ -1,0 +1,5 @@
+# aqui se colocan los archivos que vamos a ignorar de nuestro proyecto para que se suban 
+# al repositorio 
+
+node_modules
+.env
