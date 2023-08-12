@@ -4,7 +4,7 @@
   "description": "Desarrollo de REST API con despliegue en Rails.app",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node SRC/index.js"
   },
   "type": "module",
   "author": "Omar Flores",
