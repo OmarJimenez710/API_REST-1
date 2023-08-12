@@ -4,7 +4,6 @@
   "description": "Desarrollo de REST API con despliegue en Rails.app",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon run SRC/index.js",
     "start": "node src/index.js"
   },
   "type": "module",
